@@ -1,12 +1,3 @@
-Hi👋 all,
-- 💁 I’m Palak Agarwal
-- 👀 I’m a tech enthusiast.
-- 🌱 Currently focussing on DSA and Competitive Coding
-- 📫 connect with me on LinkedIn 👇
-https://www.linkedin.com/in/palak-agarwal-485234183
-
-
-
 <h1 align="center"><b>Hi , I'm Palak Agarwal </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
@@ -24,7 +15,7 @@ https://www.linkedin.com/in/palak-agarwal-485234183
 <br>
 
 - A passionate Self-taught Full Stack developer
-- Currently learning Web Development by Self
+- Currently working on Web Development projects by Self
 - I’m currently open for an Intern or a new job opportunity.
 <br><br>
 
@@ -50,15 +41,18 @@ https://www.linkedin.com/in/palak-agarwal-485234183
 <br>
 
 - **Back-End Development**:
-   ![NodeJS]
-   ![MongoDB]
+
+   ![NodeJS]() <br>
+   ![MongoDB]()
+   
   
 <br>
+   
 - **Google Analytics**:
-  ![Google analytics]
-  ![Google Tag Manager]
-  ![Google Data Studio]
 
+   ![Google Analytics]()<br>
+   ![Google Tag Manager]()<br>
+   ![Google Data Studio]()<br>
 
 - **Softwares and Tools**:
 
@@ -103,7 +97,7 @@ https://www.linkedin.com/in/palak-agarwal-485234183
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
-
+Happy Coding! 😊
 
 <!---
 palakagarwal5230/palakagarwal5230 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
